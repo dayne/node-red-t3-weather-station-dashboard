@@ -20,6 +20,8 @@ For this Node-RED dashboard you will need the following hardware components:
 
 #### Data flow options
 
+Pick a path -- mqtt feed or direct from rtl_sdr tool:
+
 ##### mqtt data feed
 
 You can use a data feed from a local or remote MQTT service like setup in [dayne/rtl433_to_mqtt](https://github.com/dayne/rtl433_to_mqtt)
